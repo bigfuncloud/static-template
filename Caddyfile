@@ -2,4 +2,5 @@
     root * src
     # To turn on directory browsing, change the next line to "file_server browse"
     file_server
+    # templates
 }
