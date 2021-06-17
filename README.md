@@ -9,7 +9,7 @@ There are three main files in action here, all in the `src/` folder:
 The template runs the [Caddy](https://caddyserver.com/) web server,
 which is very powerful. By uncommenting the `templates` directive
 in [Caddyfile](Caddyfile#L5), you can use Go templates in every file,
-which include will run server-side includes, Markdown rendering, and much more.
+which can run server-side includes, render Markdown, and much more.
 
 For documentation on Caddy templates, [see here](https://caddyserver.com/docs/modules/http.handlers.templates#docs)!
 
