@@ -2,5 +2,6 @@
     root * src
     # To turn on directory browsing, change the next line to "file_server browse"
     file_server
+    # To turn on Caddy templates, uncomment the next line.
     # templates
 }
