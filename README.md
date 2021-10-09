@@ -11,6 +11,4 @@ which is very powerful. By uncommenting the `templates` directive
 in [Caddyfile](Caddyfile#L5), you can use Go templates in every file,
 which can run server-side includes, render Markdown, and much more.
 
-For documentation on Caddy templates, [see here](https://caddyserver.com/docs/modules/http.handlers.templates#docs)!
-
 Thanks for using Big Fun Cloud!
